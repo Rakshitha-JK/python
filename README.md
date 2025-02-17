@@ -23,15 +23,15 @@ across a variety of fields.
 Visualization Format: Using flowchart or dividing the section into half for input
 and output showing results, including steps like search suggestions, concept
 linking, etc.
-1. Search Input Box : Top of the screen. A simple text box where the user enters
++ Search Input Box : Top of the screen. A simple text box where the user enters
 their topic. The user types in a broad topic or search query.
-2. Leading Questions Box : Below or next to the search input. A set of
++ Leading Questions Box : Below or next to the search input. A set of
 dynamically generated questions (like a list or a dropdown).These questions
 helps the user's search and guide them to more specific topics.
-3. Concept Details Pop-Up : Appears when a user clicks on a suggestion or a
++ Concept Details Pop-Up : Appears when a user clicks on a suggestion or a
 topic. A small, interactive pop-up box with a short description of the concept and
 possibly links to more detailed resources.
-4. More Options: A sidebar or floating panel. Buttons or options like "Explore
++ More Options: A sidebar or floating panel. Buttons or options like "Explore
 More" "Ask Another Question", Back or "Filter by Category" . Helps the user to
 navigate between concepts, choose related topics, or reset the search.
 ## Current Implementations Few Examples 
